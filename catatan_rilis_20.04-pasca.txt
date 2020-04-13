@@ -29,3 +29,6 @@ Lengkapnya, isi rilis versi 20.04-pasca adalah sebagai berikut:
 
 
 Selalu diingatkan apabila meng-upgrade (yaitu bukan install baru) dari versi SEBELUM versi 20.04-pasca, struktur database dan/atau folder desa perlu diubah dengan menjalankan fitur Database > Migrasi DB. Fitur migrasi ini melakukan perubahan database dan/atau folder desa yang diperlukan.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAzMDUxNzMwOF19
+-->
